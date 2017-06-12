@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+// python
 vector<int>* graph;
 int* visit;
 
