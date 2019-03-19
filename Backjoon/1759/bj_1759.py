@@ -63,6 +63,7 @@ if ( __name__ == "__main__" ) :
         # 1개의 vowel 와
         # 2개의 consonent 를 뽑는다.
 
+
         curr_V_list = getComponents(V_list,1)
         curr_C_list = getComponents(C_list,2)
         numOfCheck -= 3
@@ -71,47 +72,45 @@ if ( __name__ == "__main__" ) :
         # 각각에서 하나씩 뽑고 그것을 제외한 나머지 배열을 만든다.
         # 나머지 배열에서 남은 수만 큼 뽑는다.
         for each_V_list in curr_V_list :
-                remainAlpha = alphaList
+
+                V_AlphaList = list()
+                V_remainAlpha = list(alphaList)
+
                 for each_V in each_V_list :
-                        remainAlpha.remove(each_V)
+                        V_remainAlpha.remove(each_V)
+                        V_AlphaList.append(each_V)
+
                 for each_C_list in curr_C_list :
+                        remainAlpha = list(V_remainAlpha)
+                        rltAlphaList = list(V_AlphaList)
+
                         for each_C in each_C_list :
                                 remainAlpha.remove(each_C)
-                
-                
+                                rltAlphaList.append(each_C)
 
+                        # 더 뽑아야 할 경우 나머지 배열에서 나머지 알파벳을 뽑는다.
 
+                        if ( numOfCheck > 0 ) :
+                                pickRemains = getComponents(remainAlpha,numOfCheck)
+                                
+                                for each_remainAlpha in pickRemains :
+                                        each_rltAlphaList = list(rltAlphaList) + each_remainAlpha
+                                        each_rltAlphaList = sorted(each_rltAlphaList)
 
-
-        # 나머지 배열에서 나머지 알파벳을 뽑는다.
-
-
-
-
-
-
-
-
-
-
-
-
- 
+                                        if( each_rltAlphaList not in rltList ) :
+                                                rltList.append(each_rltAlphaList)
+                        else :
+                                rltAlphaList = sorted(rltAlphaList)
+                                if( rltAlphaList not in rltList ) :
+                                        rltList.append(rltAlphaList)
+                                
 
         
-
-        rltList = list()
-
-
-
-
-
-
-
-
-        
-
-        
+        for eachList in sorted(rltList) :
+                rlt = ""
+                for alpha in eachList :
+                        rlt += alpha
+                print(rlt)
 
 
 
