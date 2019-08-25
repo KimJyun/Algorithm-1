@@ -87,6 +87,32 @@
   ></table>
   ></details>
   
+  
+- #### :boom: 분할정복 (DQ)
+  >
+  ><details>
+  ><summary>문제 목록</summary><br>
+  ><table>
+  ><thead>
+  ><tr>
+  ><th align="center">문제번호</th>
+  ><th align="center">Python</th>
+  ><th align="center">JAVA</th>
+  ><th align="center">C++</th>
+  ></tr>
+  ></thead>
+  ><tbody>
+  ><tr>
+  ><td align="center">2261</td>
+  ><td align="center"><</td>
+  ><td align="center"></td>
+  ><td align="center">a href="Backjoon/2261/bj_2261.cpp">Code</a></td>
+  ></tr>
+  ></tbody>
+  ></table>
+  ></details>
+  
+  
 - #### :boom: 백 트래킹
   >
   ><details>
