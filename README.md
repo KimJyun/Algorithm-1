@@ -87,6 +87,30 @@
   ></table>
   ></details>
   
+  - #### :boom: Etc 
+  >
+  ><details>
+  ><summary>문제 목록</summary><br>
+  ><table>
+  ><thead>
+  ><tr>
+  ><th align="center">문제번호</th>
+  ><th align="center">Python</th>
+  ><th align="center">JAVA</th>
+  ><th align="center">C++</th>
+  ></tr>
+  ></thead>
+  ><tbody>
+  ><tr>
+  ><td align="center">1743</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/11724/bj_1743.cpp">Code</a></td>
+  ></tr>
+  ></tbody>
+  ></table>
+  ></details>
+  
 ---------------------------------------------------------------------------------------
  
 
