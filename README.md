@@ -171,7 +171,7 @@
 
 ### :smile_cat: 카카오 코드 페스티벌 2018 
 - #### :boom: 예선
-  > <a href="https://www.acmicpc.net/problem/15953">[ 참고링크 ]</a>
+  > <a href="https://www.acmicpc.net/category/detail/1897">[ 참고링크 ]</a>
   ><details>
   ><summary>문제 목록</summary><br>
   ><table>
