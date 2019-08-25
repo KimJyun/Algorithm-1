@@ -105,7 +105,7 @@
   ><td align="center">1743</td>
   ><td align="center"></td>
   ><td align="center"></td>
-  ><td align="center"><a href="Backjoon/11724/bj_1743.cpp">Code</a></td>
+  ><td align="center"><a href="Backjoon/1743/bj_1743.cpp">Code</a></td>
   ></tr>
   ></tbody>
   ></table>
