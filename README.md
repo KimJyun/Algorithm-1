@@ -38,7 +38,8 @@
   >
   > <details>
   > <summary>문제 목록</summary><br>
-  > 문제번호 &nbsp;&nbsp;| &nbsp;&nbsp;Python&nbsp;&nbsp; | &nbsp;&nbsp;JAVA&nbsp;&nbsp;  | &nbsp;&nbsp;C++
+  > 문제번호 &nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; JAVA &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; |<br>
+  > 11724 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp; Code &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
   
   > </details>
   
