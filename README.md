@@ -34,14 +34,28 @@
 
 
 - #### :boom: 깊이 우선 탐색 (DFS)
-  > 
   >
-  > <details>
-  > <summary>문제 목록</summary><br>
-  > 문제번호 &nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; JAVA &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; |<br>
-  > 11724 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp; Code &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
-  
-  > </details>
+  ><details>
+  ><summary>문제 목록</summary><br>
+  ><table>
+  ><thead>
+  ><tr>
+  ><th align="center">문제번호</th>
+  ><th align="center">Python</th>
+  ><th align="center">JAVA</th>
+  ><th align="center">C++</th>
+  ></tr>
+  ></thead>
+  ><tbody>
+  ><tr>
+  ><td align="center">11724</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/11724/bj_11724.cpp">Code</a></td>
+  ></tr>
+  ></tbody>
+  ></table>
+  ></details>
   
 ---------------------------------------------------------------------------------------
  
