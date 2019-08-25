@@ -1,5 +1,3 @@
-## 초간단 Algorithm Github
-
 ### 메모밍식 초간단 Algorithm
 > 문제를 이해하고 접근 방식을 '코딩없이' 고민한다.
 > Python으로 빠르게 시도해본다.
