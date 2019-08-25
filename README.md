@@ -87,7 +87,7 @@
   ></table>
   ></details>
   
-  - #### :boom: Etc 
+- #### :boom: Etc
   >
   ><details>
   ><summary>문제 목록</summary><br>
