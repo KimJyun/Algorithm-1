@@ -33,6 +33,31 @@
   ><td align="center"></td>
   ><td align="center"></td>
   ></tr>
+  ><tr>
+  ><td align="center">1003</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1003/bj_1003.cpp">Code</a></td>
+  ></tr>
+  ><tr>
+  ><td align="center">1463</td>
+  ><td align="center"><a href="Backjoon/1463/bj_1463.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
+  ><tr>
+  ><td align="center">1932</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1932/bj_1932.cpp">Code</a></td>
+  ></tr>
+  ><tr>
+  ><td align="center">9095</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/9095/bj_9095.cpp">Code</a></td>
+  ></tr>
+  
   ></tbody>
   ></table>
   ></details>
@@ -113,24 +138,6 @@
   ><td align="center"></td>
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/2261/bj_2261.cpp">Code</a></td>
-  ></tr>
-  ><tr>
-  ><td align="center">1463</td>
-  ><td align="center"><a href="Backjoon/1463/bj_1463.py">Code</a></td>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ></tr>
-  ><tr>
-  ><td align="center">9095</td>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ><td align="center"><a href="Backjoon/9095/bj_9095.cpp">Code</a></td>
-  ></tr>
-  ><tr>
-  ><td align="center">1003</td>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ><td align="center"><a href="Backjoon/1003/bj_1003.cpp">Code</a></td>
   ></tr>
   ></tbody>
   ></table>
