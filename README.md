@@ -28,12 +28,6 @@
   ></thead>
   ><tbody>
   ><tr>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ><td align="center"></td>
-  ></tr>
-  ><tr>
   ><td align="center">1003</td>
   ><td align="center"></td>
   ><td align="center"></td>
@@ -57,7 +51,12 @@
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/9095/bj_9095.cpp">Code</a></td>
   ></tr>
-  
+  ><tr>
+  ><td align="center">11052</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/11052/bj_11052.cpp">Code</a></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
