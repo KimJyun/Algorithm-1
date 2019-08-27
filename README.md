@@ -114,6 +114,12 @@
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/2261/bj_2261.cpp">Code</a></td>
   ></tr>
+  ><tr>
+  ><td align="center">1463</td>
+  ><td align="center"><a href="Backjoon/1463/bj_1463.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
