@@ -46,6 +46,12 @@
   ><td align="center"><a href="Backjoon/1932/bj_1932.cpp">Code</a></td>
   ></tr>
   ><tr>
+  ><td align="center">2293</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/2293/bj_2293.cpp">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">9095</td>
   ><td align="center"></td>
   ><td align="center"></td>
