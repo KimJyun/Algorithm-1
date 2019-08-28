@@ -126,16 +126,22 @@
   ></thead>
   ><tbody>
   ><tr>
-  ><td align="center">11724</td>
+  ><td align="center">1260</td>
   ><td align="center"></td>
   ><td align="center"></td>
-  ><td align="center"><a href="Backjoon/11724/bj_11724.cpp">Code</a></td>
+  ><td align="center"><a href="Backjoon/1260/bj_1260.cpp">Code</a></td>
   ></tr>
   ><tr>
   ><td align="center">2644</td>
   ><td align="center"></td>
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/2644/bj_2644.cpp">Code</a></td>
+  ></tr>
+  ><tr>
+  ><td align="center">11724</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/11724/bj_11724.cpp">Code</a></td>
   ></tr>
   ></tbody>
   ></table>
