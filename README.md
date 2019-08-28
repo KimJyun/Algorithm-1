@@ -75,6 +75,12 @@
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/11052/bj_11052.cpp">Code</a></td>
   ></tr>
+  ><tr>
+  ><td align="center">11060</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/11060/bj_11060.cpp">Code</a></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
