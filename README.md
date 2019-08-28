@@ -206,6 +206,12 @@
   ></thead>
   ><tbody>
   ><tr>
+  ><td align="center">1076</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1076/bj_1076.c">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">1037</td>
   ><td align="center"></td>
   ><td align="center"></td>
