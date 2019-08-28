@@ -218,6 +218,12 @@
   ><td align="center"><a href="Backjoon/1037/bj_1037.c">Code</a></td>
   ></tr>
   ><tr>
+  ><td align="center">1357</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1357/bj_1357.c">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">1743</td>
   ><td align="center"></td>
   ><td align="center"></td>
