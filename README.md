@@ -266,6 +266,12 @@
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/1743/bj_1743.cpp">Code</a></td>
   ></tr>
+  ><tr>
+  ><td align="center">2839</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/2839/bj_2839.c">Code</a></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
