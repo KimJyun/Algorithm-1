@@ -162,6 +162,12 @@
   ><td align="center"></td>
   ><td align="center"><a href="Backjoon/2261/bj_2261.cpp">Code</a></td>
   ></tr>
+  ><tr>
+  ><td align="center">1992</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1992/bj_1992.cpp">Code</a></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
