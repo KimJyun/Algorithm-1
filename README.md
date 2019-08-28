@@ -126,6 +126,12 @@
   ></thead>
   ><tbody>
   ><tr>
+  ><td align="center">1012</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1012/bj_1012.cpp">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">1260</td>
   ><td align="center"></td>
   ><td align="center"></td>
