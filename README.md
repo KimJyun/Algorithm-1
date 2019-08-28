@@ -40,6 +40,12 @@
   ><td align="center"></td>
   ></tr>
   ><tr>
+  ><td align="center">1699</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1699/bj_1699.cpp">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">1932</td>
   ><td align="center"></td>
   ><td align="center"></td>
