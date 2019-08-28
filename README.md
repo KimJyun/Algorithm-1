@@ -101,10 +101,10 @@
   ></thead>
   ><tbody>
   ><tr>
+  ><td align="center">1071</td>
   ><td align="center"></td>
   ><td align="center"></td>
-  ><td align="center"></td>
-  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/1071/bj_1071.cpp">Code</a></td>
   ></tr>
   ></tbody>
   ></table>
