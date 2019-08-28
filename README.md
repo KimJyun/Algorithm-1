@@ -132,6 +132,12 @@
   ><td align="center"><a href="Backjoon/1260/bj_1260.cpp">Code</a></td>
   ></tr>
   ><tr>
+  ><td align="center">2178</td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ><td align="center"><a href="Backjoon/2178/bj_2178.cpp">Code</a></td>
+  ></tr>
+  ><tr>
   ><td align="center">2644</td>
   ><td align="center"></td>
   ><td align="center"></td>
