@@ -61,7 +61,7 @@
   ><td align="center">2302</td>
   ><td align="center"></td>
   ><td align="center"></td>
-  ><td align="center"><a href="Backjoon/2399/bj_2302.cpp">Code</a></td>
+  ><td align="center"><a href="Backjoon/2302/bj_2302.cpp">Code</a></td>
   ></tr>
   ><tr>
   ><td align="center">9095</td>
