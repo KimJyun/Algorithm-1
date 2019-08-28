@@ -6,7 +6,7 @@
 >
 > 3. 풀이가 맞았을경우, JAVA로 구현 해본다.
 >
-> 4. 풀이가 맞았을경우, C++로 구현 해본다.
+> 4. 풀이가 맞았을경우, C/C++로 구현 해본다.
 >
 > 5. 다른 풀이를 본다.
 
@@ -23,7 +23,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -96,7 +96,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -121,7 +121,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -176,7 +176,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -214,7 +214,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -238,7 +238,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
@@ -301,7 +301,7 @@
   ><th align="center">문제번호</th>
   ><th align="center">Python</th>
   ><th align="center">JAVA</th>
-  ><th align="center">C++</th>
+  ><th align="center">C/C++</th>
   ></tr>
   ></thead>
   ><tbody>
