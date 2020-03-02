@@ -1,4 +1,4 @@
-## :point_up: 메모밍식 초간단 Algorithm
+## :point_up: Algorithm
 >
 > 1. 문제를 이해하고 접근 방식을 '코딩없이' 고민한다.
 >
@@ -9,6 +9,36 @@
 > 4. 풀이가 맞았을경우, C/C++로 구현 해본다.
 >
 > 5. 다른 풀이를 본다.
+
+### :zap: HankerRank  ([공식 사이트](https://www.hackerrank.com/))
+- #### :boom: Warm-up Challenges
+  ><details>
+  ><summary>문제 목록</summary><br>
+  ><table>
+  ><thead>
+  ><tr>
+  ><th align="center">문제번호</th>
+  ><th align="center">Python</th>
+  ><th align="center">JAVA</th>
+  ><th align="center">C/C++</th>
+  ></tr>
+  ></thead>
+  ><tbody>
+  ><tr>
+  ><td align="center">Sock Merchant</td>
+  ><td align="center"><a href="HackerRank/WarmUpChallenges/SockMerchant.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
+  ><tr>
+  ><td align="center">Counting Valleys</td>
+  ><td align="center"><a href="HackerRank/WarmUpChallenges/CountingValleys.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
+  ></tbody>
+  ></table>
+  ></details>
 
 ---------------------------------------------------------------------------------------
 
