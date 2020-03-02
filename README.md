@@ -36,9 +36,45 @@
   ><td align="center"></td>
   ><td align="center"></td>
   ></tr>
+  ><td align="center">Jumping on the Clouds</td>
+  ><td align="center"><a href="HackerRank/WarmUpChallenges/JumpingOnTheClouds.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
+  ></tr>
+  ><td align="center">Repeated String</td>
+  ><td align="center"><a href="HackerRank/WarmUpChallenges/RepeatedString.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
   ></tbody>
   ></table>
   ></details>
+
+- #### :boom: Arrays
+  ><details>
+  ><summary>문제 목록</summary><br>
+  ><table>
+  ><thead>
+  ><tr>
+  ><th align="center">문제번호</th>
+  ><th align="center">Python</th>
+  ><th align="center">JAVA</th>
+  ><th align="center">C/C++</th>
+  ></tr>
+  ></thead>
+  ><tbody>
+  ><tr>
+  ><td align="center">2D Array - DS</td>
+  ><td align="center"><a href="HackerRank/Arrays/2DArray_DS.py">Code</a></td>
+  ><td align="center"></td>
+  ><td align="center"></td>
+  ></tr>
+  ></tbody>
+  ></table>
+  ></details>
+
+  
 
 ---------------------------------------------------------------------------------------
 
